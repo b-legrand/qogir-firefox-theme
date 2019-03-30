@@ -1,0 +1,40 @@
+{
+    "name": "qogir-dark",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "theme": {
+        "colors": {
+            "frame": "white",
+            "frame_text": "#757d91",
+            "tab_background_text": "#757d91",
+            "icons": "#d8d9df",
+            "button_background_active": "#d8d9df",
+            "icons_attention": "#5294e2",
+            
+            "tab_loading": "#5294e2",
+            "ntp_background": "#181922",
+            "toolbar": "#32343d",
+            "tab_line": "#5294e2",
+            "bookmark_text": "#d8d9df",
+            "toolbar_field": "#272931",
+            "toolbar_field_border": "#32343d",
+            "toolbar_field_text": "white",
+            "toolbar_field_separator": "#d8d9df",
+            "toolbar_top_separator": "white",
+            "toolbar_bottom_separator": "#32343d",
+            "toolbar_vertical_separator": "#181922",
+
+     "popup": "#272931",
+     "popup_text": "#d8d9df",
+     "popup_border": "#272931",
+
+     "sidebar": "#181922",
+     "sidebar_border": "#393c48",
+     "sidebar_highlight": "#5294e2",
+     "sidebar_highlight_text": "white",
+     "sidebar_text": "white",
+
+     "tab_background_separator": "#757d91"
+        }
+    }
+}
